@@ -11,8 +11,8 @@ export default function Sidebar() {
       <p className="title">Desenvolvedor</p>
       <SocialNetworks />
       <InformationContainer />
-      <a href="" className="curriculum">
-        Dowload Curriculo
+      <a href="#projetos" className="curriculum">
+        Projetos
       </a>
     </aside>
   )
